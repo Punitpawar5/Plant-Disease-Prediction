@@ -1,4 +1,4 @@
-# 🌿 Plant Disease Detection Using Deep Learning
+# 🌿 Plant Disease Detection Using Deep Learning.
 
 ## 🔖 Overview
 
