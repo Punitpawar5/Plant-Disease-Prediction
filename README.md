@@ -2,13 +2,13 @@
 
 ## 🔖 Overview
 
-This project implements a Convolutional Neural Network (CNN) to classify plant leaf diseases from images using the PlantVillage dataset. The model helps detect plant diseases early, improving diagnosis and supporting sustainable agriculture.
+This project implements a Convolutional Neural Network(CNN) to classify plant leaf diseases from images using the PlantVillage dataset. The model helps detect plant diseases early, improving diagnosis and supporting sustainable agriculture.
 
 ---
 
 ## 🔍 Problem Statement
 
-Manual disease detection in crops is error-prone, slow, and requires expert knowledge. This project automates the identification of plant leaf diseases using image classification, enabling fast and accurate detection without expert intervention.
+Manual disease detection in crops is prone to error, slow, and requires expert knowledge. This project automates the identification of plant leaf diseases using image classification, enabling fast and accurate detection without the need for specialist intervention.
 
 ---
 
